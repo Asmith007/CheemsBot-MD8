@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/Asmith007/CheemsBot-MD8 //script link'
 global.packname = "Lucifer07"
 global.author = "🦄Lucifer07\n\n"
 global.creator = "919707925737@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','$','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
